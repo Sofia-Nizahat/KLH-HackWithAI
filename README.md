@@ -103,13 +103,6 @@ Natural language output explaining:
 - Vendor risk classification
 
 ---
-
-## 📸 Screenshots
-
-(Add screenshots here – see below for what to include)
-
----
-
 ## 🔮 Future Improvements
 
 - Real-time GSTN integration
@@ -119,6 +112,11 @@ Natural language output explaining:
 
 ---
 <!--
+
+## 📸 Screenshots
+
+(Add screenshots here – see below for what to include)
+
 ## 📌 Note
 
 This project was developed as a collaborative effort.  
