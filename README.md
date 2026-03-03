@@ -1,4 +1,120 @@
-# 🧠 Intelligent GST Reconciliation Using Knowledge Graphs
+# 💼 GSTGraph  
+### Intelligent GST Reconciliation Using Knowledge Graphs  
+
+---
+
+## 📌 Problem Statement  
+
+GST reconciliation in India is complex, fragmented, and prone to ITC leakages due to siloed invoice and return data.
+
+Traditional systems rely on flat table matching.  
+GSTGraph redefines reconciliation as a graph traversal problem to detect deep multi-hop mismatches and vendor compliance risks.
+
+---
+
+## 🧠 About GSTGraph  
+
+GSTGraph models India’s GST ecosystem as a Knowledge Graph to enable:
+
+- Multi-hop reconciliation  
+- ITC mismatch detection  
+- Vendor compliance scoring  
+- Financial risk classification  
+- Explainable audit trails  
+
+---
+
+## 🚀 Tech Stack  
+
+| Graph Layer | Backend | APIs | Frontend | AI / ML |
+|------------|----------|------|-----------|----------|
+| Neo4j / Amazon Neptune / ArangoDB | Python (NetworkX) | REST APIs | React Dashboard | Graph ML / Anomaly Detection |
+
+---
+
+## 🏗️ Architecture Overview  
+
+1. GST data ingested as graph nodes & relationships  
+2. Invoice → Return → Tax Payment chain validation  
+3. Multi-hop traversal mismatch detection  
+4. Risk classification engine  
+5. Explainable audit output  
+
+---
+
+## ✨ Key Features  
+
+- Knowledge Graph schema for GST ecosystem  
+- Multi-hop graph traversal reconciliation engine  
+- Root-cause mismatch classification  
+- ITC risk prioritization dashboard  
+- Vendor compliance scoring  
+- Explainable audit output in natural language  
+- Predictive compliance risk modeling  
+
+---
+
+## 📊 Core Modules  
+
+### 1️⃣ Knowledge Graph Schema  
+
+Entities:
+- Taxpayer  
+- GSTIN  
+- Invoice  
+- IRN  
+- GSTR-1 / 2B / 3B  
+- Payment Records  
+
+Relationships:
+- FILED  
+- CLAIMED_ITC  
+- GENERATED_IRN  
+- MATCHES  
+- PAID_TAX  
+
+---
+
+### 2️⃣ Reconciliation Engine  
+
+- Multi-hop traversal validation  
+- Invoice-to-payment chain verification  
+- Risk-weighted mismatch detection  
+- Root-cause classification  
+
+---
+
+### 3️⃣ ITC Risk Dashboard  
+
+- Vendor compliance scores  
+- Risk heatmaps  
+- High-risk mismatch prioritization  
+- Drill-down graph visualization  
+
+---
+
+### 4️⃣ Explainable Audit Trail  
+
+Generates natural-language explanations for:
+
+- ITC denial reasons  
+- Missing compliance links  
+- Vendor risk classification  
+
+---
+
+## 🔮 Future Improvements  
+
+- Real-time GSTN integration  
+- Advanced anomaly detection using Graph ML  
+- Network fraud ring detection  
+- Scalable distributed graph storage  
+
+---
+
+# 🌐 GSTGraph  
+### Making Tax Reconciliation Intelligent, Transparent, and Explainable.
+<!--# 🧠 Intelligent GST Reconciliation Using Knowledge Graphs
 
 A FinTech / GovTech solution that models India’s GST ecosystem as a Knowledge Graph to enable multi-hop reconciliation, financial risk classification, and explainable audit trails.
 
@@ -111,6 +227,7 @@ Natural language output explaining:
 - Scalable distributed graph storage
 
 ---
+--!>
 <!--
 
 ## 📸 Screenshots
