@@ -11,7 +11,7 @@ Traditional systems rely on flat table matching.
 GSTGraph redefines reconciliation as a graph traversal problem to detect deep multi-hop mismatches and vendor compliance risks.
 
 ---
-## 📸 Screenshots 
+##  Screenshots 
 <img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/33965945-086d-4a36-ac77-ca34bf5adf86" />
 <img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/b59cce28-1ee8-43f7-81f3-84bd5ef120e3" />
 <img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/8ed4b6f1-3144-4f65-a812-321542e6feaf" />
